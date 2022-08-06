@@ -15,7 +15,6 @@ const useField = (type) => {
   }
 }
 
-//done 7.8
 
 const useResource = (baseUrl) => {
   const [resources, setResources] = useState([])
